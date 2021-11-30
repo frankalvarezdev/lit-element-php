@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../src/app/test.ts", "../src/index.ts"],
+  "sourcesContent": ["const username = 'frank alvarez';\r\n\r\nexport default username;", "import username from 'app/test';\r\n\r\nconsole.log(`hola ${username}`);"],
+  "mappings": "MAAA,GAAM,GAAW,gBAEV,EAAQ,ECAf,QAAQ,IAAI,QAAQ",
+  "names": []
+}
