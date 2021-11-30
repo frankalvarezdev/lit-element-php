@@ -1,3 +1,4 @@
-import username from 'app/test';
-
-console.log(`hola ${username}`);
+import 'utils/router';
+import 'pages/index';
+import 'pages/404';
+import 'pages/hello/name';
